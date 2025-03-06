@@ -6,7 +6,7 @@
 
 // Execution information:
 // - Operating System: Windows 11.
-// - IDE: Visual Studio 2022 Community.
+// - IDE: Visual Studio 2022 Community .
 //		+ Download link: https://visualstudio.microsoft.com/downloads/
 // - Platform Toolset: Visual Studio 2022 (v143).
 // - Language: ISO C++ 14 Standard.
@@ -19,7 +19,7 @@ using namespace std;
 void PARTITION_EXTEND(vector<int>&, int, int, int&, int&);				// PARTITION' 
 void RANDOMIZED_PARTITION_EXTEND(vector<int>&, int, int, int&, int&);	// RANDOMIZED-PARTITION'
 int  RANDOM(int, int);													// RANDOM
-void RANDOMIZED_QUICKSORT_EXTEND(vector<int>&, int, int);				// QUICKSORT'
+void QUICKSORT_EXTEND(vector<int>&, int, int);							// QUICKSORT'
 void print(vector<int>&);
 
 int main()
@@ -27,7 +27,7 @@ int main()
 	vector<int> array = { 3, 1, 4, 6, 4, 2, 1, 4, 8, 1, 2, 9, 5, 5 };
 	print(array);
 
-	RANDOMIZED_QUICKSORT_EXTEND(array, 0, array.size() - 1);
+	QUICKSORT_EXTEND(array, 0, array.size() - 1);
 	print(array);
 
 	cout << '\n';
@@ -80,15 +80,15 @@ int RANDOM(int start, int end)
 	return dist(prng);
 }
 
-void RANDOMIZED_QUICKSORT_EXTEND(vector<int>& array, int start, int end)
+void QUICKSORT_EXTEND(vector<int>& array, int start, int end)
 {
 	if (start < end)
 	{
 		int pivot_start = 0;
-		int pivot_end = 0;
+		int pivot_end = 0; 
 		RANDOMIZED_PARTITION_EXTEND(array, start, end, pivot_start, pivot_end);
-		RANDOMIZED_QUICKSORT_EXTEND(array, start, pivot_start - 1);
-		RANDOMIZED_QUICKSORT_EXTEND(array, pivot_end + 1, end);
+		QUICKSORT_EXTEND(array, start, pivot_start - 1);
+		QUICKSORT_EXTEND(array, pivot_end + 1, end);
 	}
 }
 
