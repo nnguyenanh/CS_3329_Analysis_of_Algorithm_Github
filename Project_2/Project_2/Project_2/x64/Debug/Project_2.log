@@ -1,0 +1,24 @@
+﻿  main.cpp
+D:\AAA_COURSE_MATERIAL\Spring_2025\CS_3329_Analysis_of_Algorithm\CS_3329_Analysis_of_Algorithm_Github\Project_2\Project_2\Project_2\InsertionSort.h(13,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\AAA_COURSE_MATERIAL\Spring_2025\CS_3329_Analysis_of_Algorithm\CS_3329_Analysis_of_Algorithm_Github\Project_2\Project_2\Project_2\main.cpp(57,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\AAA_COURSE_MATERIAL\Spring_2025\CS_3329_Analysis_of_Algorithm\CS_3329_Analysis_of_Algorithm_Github\Project_2\Project_2\Project_2\main.cpp(58,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\AAA_COURSE_MATERIAL\Spring_2025\CS_3329_Analysis_of_Algorithm\CS_3329_Analysis_of_Algorithm_Github\Project_2\Project_2\Project_2\main.cpp(178,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\AAA_COURSE_MATERIAL\Spring_2025\CS_3329_Analysis_of_Algorithm\CS_3329_Analysis_of_Algorithm_Github\Project_2\Project_2\Project_2\main.cpp(184,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\AAA_COURSE_MATERIAL\Spring_2025\CS_3329_Analysis_of_Algorithm\CS_3329_Analysis_of_Algorithm_Github\Project_2\Project_2\Project_2\main.cpp(190,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\AAA_COURSE_MATERIAL\Spring_2025\CS_3329_Analysis_of_Algorithm\CS_3329_Analysis_of_Algorithm_Github\Project_2\Project_2\Project_2\main.cpp(196,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\AAA_COURSE_MATERIAL\Spring_2025\CS_3329_Analysis_of_Algorithm\CS_3329_Analysis_of_Algorithm_Github\Project_2\Project_2\Project_2\main.cpp(203,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\AAA_COURSE_MATERIAL\Spring_2025\CS_3329_Analysis_of_Algorithm\CS_3329_Analysis_of_Algorithm_Github\Project_2\Project_2\Project_2\main.cpp(209,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\AAA_COURSE_MATERIAL\Spring_2025\CS_3329_Analysis_of_Algorithm\CS_3329_Analysis_of_Algorithm_Github\Project_2\Project_2\Project_2\main.cpp(215,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\AAA_COURSE_MATERIAL\Spring_2025\CS_3329_Analysis_of_Algorithm\CS_3329_Analysis_of_Algorithm_Github\Project_2\Project_2\Project_2\main.cpp(221,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\AAA_COURSE_MATERIAL\Spring_2025\CS_3329_Analysis_of_Algorithm\CS_3329_Analysis_of_Algorithm_Github\Project_2\Project_2\Project_2\main.cpp(233,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\AAA_COURSE_MATERIAL\Spring_2025\CS_3329_Analysis_of_Algorithm\CS_3329_Analysis_of_Algorithm_Github\Project_2\Project_2\Project_2\main.cpp(239,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\AAA_COURSE_MATERIAL\Spring_2025\CS_3329_Analysis_of_Algorithm\CS_3329_Analysis_of_Algorithm_Github\Project_2\Project_2\Project_2\main.cpp(245,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\AAA_COURSE_MATERIAL\Spring_2025\CS_3329_Analysis_of_Algorithm\CS_3329_Analysis_of_Algorithm_Github\Project_2\Project_2\Project_2\main.cpp(251,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\AAA_COURSE_MATERIAL\Spring_2025\CS_3329_Analysis_of_Algorithm\CS_3329_Analysis_of_Algorithm_Github\Project_2\Project_2\Project_2\main.cpp(258,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\AAA_COURSE_MATERIAL\Spring_2025\CS_3329_Analysis_of_Algorithm\CS_3329_Analysis_of_Algorithm_Github\Project_2\Project_2\Project_2\main.cpp(264,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\AAA_COURSE_MATERIAL\Spring_2025\CS_3329_Analysis_of_Algorithm\CS_3329_Analysis_of_Algorithm_Github\Project_2\Project_2\Project_2\main.cpp(270,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\AAA_COURSE_MATERIAL\Spring_2025\CS_3329_Analysis_of_Algorithm\CS_3329_Analysis_of_Algorithm_Github\Project_2\Project_2\Project_2\main.cpp(276,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\AAA_COURSE_MATERIAL\Spring_2025\CS_3329_Analysis_of_Algorithm\CS_3329_Analysis_of_Algorithm_Github\Project_2\Project_2\Project_2\main.cpp(328,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project_2.vcxproj -> D:\AAA_COURSE_MATERIAL\Spring_2025\CS_3329_Analysis_of_Algorithm\CS_3329_Analysis_of_Algorithm_Github\Project_2\Project_2\x64\Debug\Project_2.exe
